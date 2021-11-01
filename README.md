@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/91024452/139599629-7008c024-a215-40d2-a2b1-860335737327.png)
 
-ANS 1)
+_*TASK 1)*_
 
 a)
 
@@ -66,7 +66,7 @@ Line 9: semicolon is there and 'time' positional argument is missing
 
 
 
-                                                                              ANS 2)
+                                                                              TASK 2)
 
                                                         i) c) Compile time error 
 
