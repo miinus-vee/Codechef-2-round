@@ -70,15 +70,15 @@ Line 9: semicolon is there and 'time' positional argument is missing
 
                                                         i) c) Compile time error 
 
-                                                        ii) 
+                                                        ii) d) 5
 
                                                         iii) d)comma 
 
                                                         iv) a) 1 2 3 4 5 0 
 
-                                                        v)
+                                                        v) d.All of these 
 
-                                                        vi)
+                                                        vi) a1 is P, a2 is P
 
                                                         vii) b) 0.000000 
 
