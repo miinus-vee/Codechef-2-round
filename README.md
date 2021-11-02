@@ -78,7 +78,7 @@ Line 9: semicolon is there and 'time' positional argument is missing
 
                                                         v) d.All of these 
 
-                                                        vi) a1 is P, a2 is P
+                                                        vi) -
 
                                                         vii) b) 0.000000 
 
